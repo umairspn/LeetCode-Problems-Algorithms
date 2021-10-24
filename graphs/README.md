@@ -3,8 +3,7 @@
 ### Graphs are probably hard to grasp, but they are very fun once a strong understanding of the graphs and their properties and Traversals are understood 
 
 
-### This repository includes the file "Graphs from Scratch" that is highly recommended when starting off with graphs 
-
+This repository includes the file "Graphs from Scratch" that is highly recommended when starting off with graphs 
 
 1. It boils down to DFS and BFS for every graph problem 
 
@@ -12,3 +11,11 @@
 
 3. Ideally, DFS should be done via Recursion -- while BFS should be done via Iteration (Queues) 
  
+
+
+
+DFS | BFS
+------------ | -------------
+Finding All Paths | Finding Shortest Path
+Do it Recursively | Do it Iteratively
+Stacks comes in   | Queues comes in 
