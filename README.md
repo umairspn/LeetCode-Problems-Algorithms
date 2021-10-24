@@ -1,5 +1,5 @@
-# AlgoExpert-Problems
-I solve AlgoExpert problems on daily basis to master my problem-solving skills. 
+# Data Structure and Algorithms - LeetCode, AlgoExpert
+I solve Leetcode and AlgoExpert problems on daily basis to master my problem-solving skills. 
 AlgoExpert Questions provides deep insights into problems that comes up at top companies like FAANG and how to master them.  
 
 ## What I Learned from this journey so far  
