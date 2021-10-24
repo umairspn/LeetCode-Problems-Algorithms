@@ -21,3 +21,8 @@ Linked Lists | Simple but Effective (Important to know the tradeoffs)
 Stacks and Queues | Importance of LIFO and FIFO and how they relate to Recursion 
 Trees --> Graphs | Recursion and Call Stack  
 Dynamic Programming | Completely reverse the thought process of Recrusion --> Instead, build solution on the go (HARD)
+
+
+
+## Programming Language 
+### Python 
