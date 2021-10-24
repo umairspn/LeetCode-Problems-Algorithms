@@ -3,7 +3,7 @@ I solve AlgoExpert problems on daily basis to master my problem-solving skills
 
 ##### AlgoExpert Questions provides deep insights into problems that comes up at top companies like FAANG and how to master them 
 
-## What I Learned from this journey so far ... 
+## What I Learned from this journey so far  
 
 1. Learn Problem Solving Skills that can be applied to any real-world problem 
 2. Learn how to think critically and break down the problem 
