@@ -6,11 +6,9 @@
 ### This repository includes the file "Graphs from Scratch" that is highly recommended when starting off with graphs 
 
 
-#### It boils down to DFS and BFS for every graph problem 
+1. It boils down to DFS and BFS for every graph problem 
 
+2. It's important to know their tradeoffs 
 
-##### It's important to know their tradeoffs 
-
-
-
-###### Ideally, DFS should be done via Recursion -- while BFS should be done via Iteration (Queues) 
+3. Ideally, DFS should be done via Recursion -- while BFS should be done via Iteration (Queues) 
+ 
