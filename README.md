@@ -26,3 +26,16 @@ Dynamic Programming | Completely reverse the thought process of Recrusion --> In
 
 ### Programming Language 
 Python 
+
+
+### Best Resources to practice 
+1. Leetcode
+2. InterviewBit
+3. Hackerrank
+4. AlgoExpert (Paid) 
+
+
+### Best Resources to Learn 
+1. Leetcode (read Solution and Discussions) 
+2. Neetcodes (Best Youtube Series for live explanation) [link to Channel!](https://www.youtube.com/c/NeetCode)
+3. AlgoExpert (PAID, but very helpful) 
