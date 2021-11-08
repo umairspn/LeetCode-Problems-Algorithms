@@ -20,7 +20,7 @@ Dictionaries or Hashmaps | Importance of Key:Value and O(1) lookups --> Optimizi
 Linked Lists | Simple but Effective (Important to know the tradeoffs) 
 Stacks and Queues | Importance of LIFO and FIFO and how they relate to Recursion and Call Stack
 Trees --> Graphs | DFS and BFS, Adjacency List and Adjacency Matrix 
-Dynamic Programming | Completely reverse the thought process of Recrusion --> Instead, build solution on the go (HARD)
+Dynamic Programming | Can we build a solution on the go? (Hard) 
 
 
 
