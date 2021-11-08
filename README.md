@@ -44,6 +44,6 @@ Though, it's improtant to know the tradeoffs between differernt programming lang
 
 
 ### Best Resources to Learn 
-1. Leetcode (read Solution and Discussions) 
+1. Leetcode (Go to "Discussions" and try to understand multiple solutions) 
 2. Neetcodes (Best Youtube Series for live explanation) [link to Channel!](https://www.youtube.com/c/NeetCode)
 3. AlgoExpert (PAID, but very helpful) 
