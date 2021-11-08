@@ -1,6 +1,6 @@
-# Graph Problems are most common in the top FAANG companies  
+# Graph Problems are very common in FAANG and other big companies  
 
-### Graphs are probably hard to grasp, but they are very fun once a strong understanding of the graphs and their properties and Traversals are understood 
+### Graphs are probably hard to grasp, but they are very fun once a strong understanding of the graphs and their properties and traversals are understood 
 
 
 This repository includes the file "Graphs from Scratch" that is highly recommended when starting off with graphs 
