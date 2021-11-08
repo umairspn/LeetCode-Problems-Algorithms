@@ -18,8 +18,8 @@ Data Structures | Algorithms
 Lists and Strings | Brute Force --> Optimal Solutions (2 Pointer, Using Hash, Sliding Window)  
 Dictionaries or Hashmaps | Importance of Key:Value and O(1) lookups --> Optimizing Structure
 Linked Lists | Simple but Effective (Important to know the tradeoffs) 
-Stacks and Queues | Importance of LIFO and FIFO and how they relate to Recursion 
-Trees --> Graphs | Recursion and Call Stack  
+Stacks and Queues | Importance of LIFO and FIFO and how they relate to Recursion and Call Stack
+Trees --> Graphs | DFS and BFS, Adjacency List and Adjacency Matrix 
 Dynamic Programming | Completely reverse the thought process of Recrusion --> Instead, build solution on the go (HARD)
 
 
