@@ -11,7 +11,7 @@ AlgoExpert Questions provides deep insights into problems that comes up at top c
 5. Learn how to write clean, understandable, and scalable code 
 
 
-## My Perosnal Breakdown of the world of "Data Structures and Algorithms" 
+## My perosnal breakdown of "Data Structures and Algorithms" 
 
 Data Structures | Algorithms
 ------------ | -------------
