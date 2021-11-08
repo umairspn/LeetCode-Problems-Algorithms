@@ -8,7 +8,7 @@ AlgoExpert Questions provides deep insights into problems that comes up at top c
 2. Learn how to think critically and break down the problem 
 3. Learn the tradeoffs of different data structure that can be used to solve a given problem 
 4. Learn the complexities -- Space and Time Analysis 
-5. Learn how to write clean and understandable code 
+5. Learn how to write clean, understandable, and scalable code 
 
 
 ## My Perosnal Breakdown of the world of "Data Structures and Algorithms" 
