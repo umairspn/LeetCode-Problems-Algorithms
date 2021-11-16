@@ -25,15 +25,13 @@ Dynamic Programming | Can we build a solution on the go? (Hard)
 
 
 ### Programming Language 
-I used Python for these 
+Python is the programming language here 
 
-I can code in C++, and Java too 
+I can code in C++, and Java as well, but I am quite proficient in Python 
 
-Programming language makes no difference when it comes to problem solving 
+I bleieve that programming language makes no difference when it comes to problem solving since the general idea remains the same, only the syntax changes
 
-The general idea remains the same, merely the syntax changes
-
-Though, it's improtant to know the tradeoffs between differernt programming languages! 
+But, it's improtant to know the tradeoffs between differernt programming languages.
 
 
 ### Best Resources to practice 
